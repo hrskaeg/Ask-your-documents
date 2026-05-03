@@ -10,5 +10,7 @@ dependencies = [
     "openai>=2.33.0",
     "pypdf>=6.10.2",
     "python-dotenv>=1.2.2",
+    "rank-bm25>=0.2.2",
     "streamlit>=1.57.0",
+    "voyageai>=0.3.7",
 ]
